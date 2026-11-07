@@ -1,0 +1,6 @@
+# Simple Calculator GUI Application
+# Standard Library only (tkinter, ast, operator, sys, re)
+# No external runtime dependencies required to run the application.
+
+# Optional: Required only if you want to build a standalone Windows EXE
+pyinstaller>=6.0.0
